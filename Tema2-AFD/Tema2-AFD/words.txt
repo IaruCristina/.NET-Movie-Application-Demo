@@ -1,0 +1,5 @@
+4
+aaab
+acbbbcb
+aaabca
+aabba

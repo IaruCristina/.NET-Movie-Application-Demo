@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\lfc\tema2-afd\tema2-afd\header.h(51): warning C4018: '<': signed/unsigned mismatch
+g:\lfc\tema2-afd\tema2-afd\header.h(57): warning C4018: '<': signed/unsigned mismatch
+g:\lfc\tema2-afd\tema2-afd\source.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Tema2-AFD.vcxproj -> G:\LFC\Tema2-AFD\Debug\Tema2-AFD.exe
